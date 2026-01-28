@@ -1,0 +1,27 @@
+# Compiled class files
+*.class
+
+# C compiled files
+*.o
+*.out
+isogram_checker
+
+# C# compiled files
+*.exe
+
+# Kotlin compiled files
+*.jar
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+bin/
+obj/
